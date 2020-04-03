@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1585870868 source:c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	"resource_manager.h"
+	"graphics.h"
+	"rect2d.h"
+
+1585869217 c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\resource_manager.h
+	<GLFW/glfw3.h>
+	<iostream>
+	<vector>
+	"shader.h"
+	"texture.h"
+
+1585867387 c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\shader.h
+	<GLFW/glfw3.h>
+	<glm/vec4.hpp>
+	<glm/mat4x4.hpp>
+	<iostream>
+
+1585762706 c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\texture.h
+	<GLFW/glfw3.h>
+	<iostream>
+
+1585868912 source:c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\shader.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	"shader.h"
+
+1585868527 c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\graphics.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+
+1585915262 source:c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\graphics.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	"graphics.h"
+	"rect2d.h"
+
+1585869228 source:c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\resource_manager.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<vector>
+	"resource_manager.h"
+	"shader.h"
+
+1585870771 c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\rect2d.h
+	<GLFW/glfw3.h>
+	<iostream>
+	<glm/vec4.hpp>
+	<glm/mat4x4.hpp>
+	"shader.h"
+
+1585917387 source:c:\users\vl4dy\onedrive\Рабочий стол\3dgames\glfw2d\rect2d.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/vec4.hpp>
+	<glm/common.hpp>
+	<glm/mat4x4.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<iostream>
+	"shader.h"
+	"rect2d.h"
+
